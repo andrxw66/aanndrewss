@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **TS, Next, Nest**
 
-- 👨‍💻 My bio [https://my-bio-links-theta.vercel.app/](https://my-bio-links-theta.vercel.app/)
+- 👨‍💻 My [bio](https://my-bio-links-theta.vercel.app/)
+
+- 🍀 My [resume](https://kazan.hh.ru/resume/af2a9eb8ff096a65430039ed1f436463396678)
 
 <h3 align="left">📨 Connect with me:</h3>
 <p align="left">
