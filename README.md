@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Andrew <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, from Kazan 🇷🇺</h3>
 
-<h3 align="left">🏆 GitHub Profile Trophy:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanndrewss&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark&margin-w=20" alt="aanndrewss" /></a> </p>
-
 - 🔭 I’m currently working on [updated version restaurant](https://github.com/aanndrewss/new_version_restaurant)
 
 - 🌱 I’m currently learning **TS, Next, Nest**
