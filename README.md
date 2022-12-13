@@ -35,7 +35,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanndrewss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Began to practice algorithmic problems:</h3>
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/aanndrewss) 
+
+[![codewars](https://www.codewars.com/users/aanndrewss/badges/small)](https://www.codewars.com/users/aanndrewss)  
 
 ![](https://komarev.com/ghpvc/?username=aanndrewss)
 
