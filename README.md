@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrew <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, from Kazan 🇷🇺</h3>
 
-- 🔭 I’m currently working on [TAI PHO | PANASIAN RESTAURANT](https://github.com/aanndrewss/new_version_restaurant)
+- 🔭 I’m currently working on [Landind | Home Comfort Store](https://github.com/aanndrewss/home-comfort-store)
 
 - 🌱 I’m currently learning **TS, Next, Nest**
 
