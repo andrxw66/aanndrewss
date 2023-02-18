@@ -25,8 +25,6 @@
 <a href="https://vk.com/andrxw66" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="vk" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanndrewss&" alt="aanndrewss" /></p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanndrewss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
