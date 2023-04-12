@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Andrew <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web engineer, from Kazan 🇷🇺</h3>
 
-- 🔭 I’m currently working on [Backend | Coffee Shop](https://github.com/aanndrewss/coffee-shop-backend) and [Frontend | Coffee Shop](https://github.com/aanndrewss/coffee-shop-frontend)
-
-
 ## Tech stack
 
 ### Frontend
