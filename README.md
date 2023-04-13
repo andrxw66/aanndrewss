@@ -16,18 +16,5 @@
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-### 📨 Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/andrxw66" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="tg" width="40" height="40"/> </a>
-<a href="https://vk.com/andrxw66" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="vk" width="40" height="40"/> </a>
-</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanndrewss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Began to practice algorithmic problems:</h3>
-
-[![codewars](https://www.codewars.com/users/aanndrewss/badges/small)](https://www.codewars.com/users/aanndrewss)  
-
-![](https://komarev.com/ghpvc/?username=aanndrewss)
 
