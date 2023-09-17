@@ -22,7 +22,7 @@ export class AboutController {
         Frameworks: {
           Frontend: ['React', 'NextJS', 'React Native'],
           Backend: ['Express', 'NestJS']
-        }
+        },
         Database: ['MongoDB', 'MySQL', 'PostgreSQL'],
         Editors: ['VS Code'],
         Platforms: ['macOS', 'Windows'],
