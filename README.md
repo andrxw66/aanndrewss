@@ -19,8 +19,10 @@ export class AboutController {
       myTools: {
         ProgramingLanguages: ['TypeScript', 'JavaScript'],
         OtherLanguages: ['HTML', 'CSS', 'Bash', 'SCSS', 'Markdown'],
-        FrontendFrameworks: ['React', 'NextJS', 'React Native'],
-        BackendFrameworks: ['Express', 'NestJS'],
+        Frameworks: {
+          Frontend: ['React', 'NextJS', 'React Native'],
+          Backend: ['Express', 'NestJS']
+        }
         Database: ['MongoDB', 'MySQL', 'PostgreSQL'],
         Editors: ['VS Code'],
         Platforms: ['macOS', 'Windows'],
