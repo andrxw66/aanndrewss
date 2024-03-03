@@ -1,9 +1,9 @@
-# Hi there, I'm Andrew
+<h1 align="left"> Hi there, I'm Andrew </h1>
 
 ### About me
 
 - I am a frontend developer.
-- Currently working as a Fulstack web developer at [Mageinn](https://mageinn.com].
+- Currently working as a Fulstack web developer at [Mageinn](https://mageinn.com).
 
 <hr/>
 
