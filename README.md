@@ -1,6 +1,15 @@
-# Hello, I'm Andrew Shihalev
+# Hi there, I'm Andrew
 
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+### About me
+
+- I am a frontend developer.
+- Currently working as a Fulstack web developer at [Mageinn](https://mageinn.com].
+
+<hr/>
+
+<details>
+  <summary><b>💻 Main Tech Knowledge</b></summary>
+  <br/>
 
 > General
 
@@ -45,3 +54,15 @@
 > Other
 
 ![Electron](https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron&logoColor=white)
+</details>
+
+<details>
+  <summary><b>⚙️ GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrxw66&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=andrxw66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrxw66&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
