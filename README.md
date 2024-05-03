@@ -4,7 +4,8 @@
 
 - I'm a Frontend Developer from Novosibirsk🧊.
 - Currently Based in Kazan📍.
-- Currently Working as a Fulstack Web Developer at [Mageinn](https://mageinn.com).
+- Currently Working as a Fulstack Web Developer at [Mageinn](https://mageinn.com)💻.
+- Web3 Diver, Rust Learner🌱.
 
 <hr/>
 
