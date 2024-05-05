@@ -1,7 +1,3 @@
-<h1 align="left"> Hi there, I'm Andrew </h1>
-
-### About me
-
 - 🏢 Software Engineer (Full Stack) [@Mageinn](https://mageinn.com), in Kazan.
 - ⚡ I enjoy photography, reading, playing soccer/hockey, and lifting weights :)
 - 🌱 Web3 Diver, Rust Learner.
