@@ -1,4 +1,4 @@
-- 🏢 Software Engineer (Full Stack) [@Mageinn](https://mageinn.com), in Kazan.
+- 🏢 Software Engineer (Full Stack).
 - ⚡ I enjoy photography, reading, playing soccer/hockey, and lifting weights :)
 - 🌱 Web3 Diver, Rust Learner.
 
@@ -51,6 +51,7 @@
 > Other
 
 ![Electron](https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron&logoColor=white)
+
 </details>
 
 <details>
