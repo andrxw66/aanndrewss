@@ -1,4 +1,4 @@
-- 🏢 Software Engineer (Full Stack).
+- 🏢 Software Engineer.
 - ⚡ I enjoy photography, reading, playing soccer/hockey, and lifting weights :)
 - 🌱 Web3 Diver, Rust Learner.
 
