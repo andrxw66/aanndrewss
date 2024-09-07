@@ -1,14 +1,11 @@
-- 🏢 Software Engineer.
-- ⚡ I enjoy photography, reading, playing soccer/hockey, and lifting weights :)
-- 🌱 Web3 Diver, Rust Learner.
-
-<hr/>
+- 🏢 software engineer
+- ⚡ I enjoy photography, hiking, reading, playing soccer/hockey, and lifting weights :)
 
 <details>
-  <summary><b>💻 Main Tech Knowledge</b></summary>
+  <summary><b>💻 familiar tech stack</b></summary>
   <br/>
 
-> General
+> general
 
 ![HTML5](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-indigo?style=flat-square&logo=css3&logoColor=white)
@@ -21,12 +18,12 @@
 ![docker](https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 
-> Code Quality
+> code quality
 
 ![ESLint](https://img.shields.io/badge/ESLint-red?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier&logoColor=white)
 
-> Frontend
+> frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -35,12 +32,12 @@
 ![Effector](https://img.shields.io/badge/Effector-orange?style=flat-square&logo=effector&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-> Mobile
+> mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white)
 
-> Backend
+> backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
@@ -48,14 +45,14 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E23237?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
 
-> Other
+> other
 
 ![Electron](https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron&logoColor=white)
 
 </details>
 
 <details>
-  <summary><b>⚙️ GitHub Statistics</b></summary>
+  <summary><b>⚙️ statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ndrxwsh&hide_border=true&theme=nightowl" />
